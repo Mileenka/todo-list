@@ -1,16 +1,4 @@
 .card {
-    margin-top: 10rem;
+    margin-top: 3rem;
     padding: 1rem;
-}
-
-@media screen and (min-width: 1024px) {
-    .card {
-        margin-top: 12rem;
-    }
-}
-
-@media screen and (min-width: 1424px) {
-    .card {
-        margin-top: 7rem;
-    }
 }
